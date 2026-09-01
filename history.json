@@ -1,11 +1,11 @@
 [
   {
-    "id": "33429895414",
-    "runNumber": 142,
+    "id": "33535626569",
+    "runNumber": 143,
     "tag": "@dailyTests",
     "ambiente": "QA",
-    "date": "2026-08-31T19:19:15Z",
-    "dateFormatted": "31/08/2026 14:19",
+    "date": "2026-09-01T17:04:47Z",
+    "dateFormatted": "01/09/2026 12:04",
     "total": 0,
     "passed": 0,
     "failed": 0,
@@ -15,7 +15,7 @@
     "commit": "05a348a488036cf29503db2159a15ade492bb50e",
     "commitShort": "05a348a",
     "actor": "MonoSama21",
-    "reportUrl": "https://MonoSama21.github.io/BE-SistemaOdontologia/reports/142/karate-summary.html",
-    "actionsUrl": "https://github.com/MonoSama21/BE-SistemaOdontologia/actions/runs/33429895414"
+    "reportUrl": "https://MonoSama21.github.io/BE-SistemaOdontologia/reports/143/karate-summary.html",
+    "actionsUrl": "https://github.com/MonoSama21/BE-SistemaOdontologia/actions/runs/33535626569"
   }
 ]
